@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SQLite</string>
+
+    <!-- Action bar items -->
+    <string name="menuCustomer">Customers</string>
+    <string name="menuTherapist">Therapists</string>
+    <string name="menuTimetable">Timetables</string>
+    <string name="menuServCat">Service Categories</string>
+    <string name="menuService">Services</string>
+    <string name="menuAppointment">Appointments</string>
+    <string name="menuInvoice">Invoices</string>
+    <string name="menuQuery1">Query1</string>
+    <string name="menuQuery2">Query2</string>
+    <string name="menuQuery3">Query3</string>
+
+    <!-- Query explanations -->
+    <string name="query1">Therapist enters their ID and the current date to see upcoming scheduled
+                          appointments, the date, and their client</string>
+    <string name="query2">Therapist can check how much money they have earned for MyFace Day Spa</string>
+    <string name="query3">Manager is thinking about expanding the Special Services offered at MyFace
+                          Day Spa. The Manager wants to see what service category, appointment services
+                          fall under from a specific date.</string>
+
+
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_customer"
+        android:title="@string/menuCustomer"
+        />
+    <item
+        android:id="@+id/action_therapist"
+        android:title="@string/menuTherapist"
+        />
+    <item
+        android:id="@+id/action_timetable"
+        android:title="@string/menuTimetable"
+        />
+    <item
+        android:id="@+id/action_serv_cat"
+        android:title="@string/menuServCat"
+        />
+    <item
+        android:id="@+id/action_service"
+        android:title="@string/menuService"
+        />
+    <item
+        android:id="@+id/action_appointment"
+        android:title="@string/menuAppointment"
+        />
+    <item
+        android:id="@+id/action_invoice"
+        android:title="@string/menuInvoice"
+        />
+    <item
+        android:id="@+id/action_query1"
+        android:title="@string/menuQuery1"
+        />
+    <item
+        android:id="@+id/action_query2"
+        android:title="@string/menuQuery2"
+        />
+    <item
+        android:id="@+id/action_query3"
+        android:title="@string/menuQuery3"
+        />
+
+</menu>
